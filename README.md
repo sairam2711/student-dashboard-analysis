@@ -14,7 +14,7 @@ Technologies Used
 2.Data Sources: Text files, Excel spreadsheets.
 
 How to Use
-1.Clone the repository: git clone https://github.com/yourusername/student-dashboard.git
+1.Clone the repository: git clone https://github.com/sairam2711/student-dashboard.git
 2.Open the Power BI file (.pbix).
 3.Connect to your data source and refresh the data.
 4.Explore the dashboard to gain insights into student data.
